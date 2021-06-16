@@ -1,9 +1,7 @@
 @extends('base')
 
-@section('title')
- About-us | Hello FRom Benin 
+@section('title', 'About-us | ' . config('app.name'))
 
-@endsection
 @section('content')
         <p> Built with &hearts; by Novotech</p>
 

@@ -1,9 +1,7 @@
 @extends('base')
 
-@section('title')
-    Hello From Benin 
-
-@endsection
+@section('title',  config('app.name'))
+  
 @section('content')
         <h1> Hello from Benin</h1>
 
