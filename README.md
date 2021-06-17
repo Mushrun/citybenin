@@ -1,6 +1,6 @@
 
 # Hello City 
 
-This laravel application displays the current timezone of your location
+This laravel application displays the current timezone in benin cuntry
 
 
